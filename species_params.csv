@@ -1,0 +1,6 @@
+species,init_biomass_kg,annual_increment_kg,annual_survival_prob,carbon_fraction
+Neem,1.5,18,0.96,0.47
+Teak,2.0,25,0.98,0.47
+Mahogany,2.5,22,0.97,0.47
+Banyan,3.0,28,0.95,0.47
+Peepal,1.2,15,0.96,0.47
